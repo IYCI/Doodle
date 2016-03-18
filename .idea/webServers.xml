@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="06b69138-5204-44dc-8b03-44e725d5842a" name="Uwaterloo" url="http://linux.student.cs.uwaterloo.ca">
+        <fileTransfer host="linux.student.cs.uwaterloo.ca" port="22" rootFolder="/u5/j27feng" accessType="SFTP" password="df92df99df93df9fdf93df9fdf9fdf93df81dfe9dfc8dfcb" username="j27feng">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

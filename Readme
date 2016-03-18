@@ -1,0 +1,12 @@
+Doodle
+
+by:
+Jiazhi Feng
+
+how to run:
+Frist, go to src directory
+use "make run" will run the game
+
+Extension:
+1. Doodle supports play animation both forward and backward.
+2. All Colors from the color palette can be customized by clicking it while pressing ctrl.
